@@ -8,8 +8,5 @@
     "start": "node app.js"
   },
   "author": "CodeXtra",
-  "license": "ISC",
-  "dependencies": {
-    "superheroes": "^3.0.0"
-  }
+  "license": "ISC"
 }
